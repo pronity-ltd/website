@@ -9,7 +9,7 @@ export default function Home() {
   const date = new Date();
 
   return (
-    <main className=" bg-black min-h-svh flex justify-center">
+    <main className=" bg-black min-h-svh flex justify-center px-5 md:px-0">
 
       <div className=" container h-full ">
         <div className=" my-10 flex items-center justify-between">
