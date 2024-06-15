@@ -33,7 +33,7 @@ export default function Home() {
           </div>
         </div>
 
-        <div className=" lg:hidden flex items-center justify-center ">
+        <div className=" lg:hidden flex items-center justify-center min-h-screen ">
           <Image src={Logo} width={300} height={300} alt="logo" />
         </div>
 
