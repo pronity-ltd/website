@@ -31,3 +31,10 @@ body {
     text-wrap: balance;
   }
 }
+
+/* canvas {
+  position: absolute;
+  top: 0;
+  width: 100vh !important;
+  height: 100vh !important; 
+} */
