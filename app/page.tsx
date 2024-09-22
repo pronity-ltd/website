@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Spline from '@splinetool/react-spline/next';
-import Logo from '@/assets/img/logo-primary.png';
-import LogoWhite from '@/assets/img/logo-white.png';
+import Logo from '@/assets/img/logo.svg';
+import LogoWhite from '@/assets/img/logo.svg';
 import Link from "next/link";
 
 export default function Home() {
